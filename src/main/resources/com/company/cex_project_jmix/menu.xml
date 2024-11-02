@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<menu-config xmlns="http://jmix.io/schema/flowui/menu">
+
+    <menu id="application" title="msg://com.company.cex_project_jmix/menu.application.title" opened="true">
+        <item view="User.list" title="msg://com.company.cex_project_jmix.view.user/UserListView.title"/>
+        <item view="Movie.list" title="msg://com.company.cex_project_jmix.view.movie/movieListView.title"/>
+        <item view="Booking.list" title="msg://com.company.cex_project_jmix.view.booking/bookingListView.title"/>
+        <item view="Customer.list" title="msg://com.company.cex_project_jmix.view.customer/customerListView.title"/>
+        <item view="Seat.list" title="msg://com.company.cex_project_jmix.view.seat/seatListView.title"/>
+        <item view="Snack.list" title="msg://com.company.cex_project_jmix.view.snack/snackListView.title"/>
+    </menu>
+
+</menu-config>
