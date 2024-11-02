@@ -6,7 +6,7 @@ import jakarta.persistence.*;
 
 import java.time.LocalDateTime;
 import java.util.UUID;
-
+//
 @JmixEntity
 @Table(name = "BOOKING")
 @Entity(name = "Booking")
